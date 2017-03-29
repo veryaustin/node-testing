@@ -12,6 +12,7 @@
   "author": "Austin Lauritsen",
   "license": "MIT",
   "dependencies": {
+    "moment": "^2.9.0",
     "underscore": "^1.8.3"
   }
 }
