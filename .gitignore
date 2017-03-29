@@ -62,3 +62,6 @@ typings/
 
 # VSCode
 .vscode
+
+# Secret Files
+secrets*
